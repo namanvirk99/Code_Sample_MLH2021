@@ -10,4 +10,21 @@ Hi, I made this project during my Python Training in 2019. The project is basica
 
 I worked on the overall development of the project including backend and frontend.
 
+The project is divided into 3 layers:
+
+1. Business Layer
+
+2. Presentation Layer
+
+3. Data Layer
+
+
+I have uploaded 4 files:
+
+Business Layer (backend): UMS_Services and loginservices
+
+Presentation Layer (frontend): login and mainframes
+
+
+
 
